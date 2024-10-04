@@ -30,7 +30,7 @@ chart.render();
 <div class ="logo" size="20%">
 </div>
   <h1>UGANDA NEWS CENTRE</h1>
-   <h2><marquee height="100"direction="right">Accurate, Timely & Informative</marquee></h2>
+   <h2>Accurate, Timely & Informative</h2>
   
 </div>
 <br>
