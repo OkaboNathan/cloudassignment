@@ -80,31 +80,31 @@ img {
 <div class="mySlides fade">
   <div class="numbertext">1 / 6</div>
   <img src="css/img/pol.jpg" style="width:100%">
- <div class="text"><a href="politics">Global News </a></div>
+ <div class="text"><a href="politics.php">Global News </a></div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 6</div>
   <img src="css/img/fb.jpg" style="width:100%">
-  <div class="text"><a href="sports">Sports </a></div>
+  <div class="text"><a href="sports.php">Sports </a></div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 6</div>
   <img src="css/img/war.webp" style="width:100%">
-  <div class="text"><a href="politics">Global News </a></div>
+  <div class="text"><a href="politics.php">Global News </a></div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 6</div>
   <img src="img/2.jpg" style="width:100%">
-  <div class="text"><a href="politics">Global News </a></div>
+  <div class="text"><a href="politics.php">Global News </a></div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">5 / 6</div>
   <img src="img/pol.webp" style="width:100%">
-  <div class="text"><a href="politics">Global Political News </a></div>
+  <div class="text"><a href="politics.php">Global Political News </a></div>
 </div>
 
 <div class="mySlides fade">
