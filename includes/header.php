@@ -37,13 +37,13 @@ chart.render();
   
 <div class="topnav">
   <div id="navbar">
-  <a href="index">Home</a>
-  <a href="education">Education</a>
-  <a href="politics">Politics</a>
-  <a href="entertainment">Entertainment</a>
-  <a href="nature">Nature</a>
-   <a href="sports">Sports</a>
-     <a href="contact">Contact</a>
+  <a href="index.php">Home</a>
+  <a href="education.php">Education</a>
+  <a href="politics.php">Politics</a>
+  <a href="entertainment.php">Entertainment</a>
+  <a href="nature.php">Nature</a>
+   <a href="sports.php">Sports</a>
+     <a href="contact.php">Contact</a>
 <a href="#">About Us</a>
 
 
